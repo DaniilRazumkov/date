@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">date</string>
+    <string name="name">Введите имя:</string>
+    <string name="number">Введите телефон:</string>
+    <string name="next">Далее</string>
+    <string name="back">Вернутся назат</string>
+    <string name="name1">Имя:</string>
+    <string name="number1">Телефон:</string>
+</resources>
